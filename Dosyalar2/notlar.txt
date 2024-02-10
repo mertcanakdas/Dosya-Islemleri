@@ -1,0 +1,20 @@
+	ali		
+dönem		not
+ 1		74,5
+ 2		80
+	mehmet
+dönem		not
+ 1		74,5
+ 2		80
+	mertcan
+dönem		not
+ 1		74,5
+ 2		80
+	cengiz
+dönem		not
+ 1		74,5
+ 2		80
+	murat
+dönem		not
+ 1		74,5
+ 2		80

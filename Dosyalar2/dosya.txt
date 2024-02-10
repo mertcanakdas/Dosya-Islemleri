@@ -1,0 +1,3 @@
+merhaba,
+java dosya yazma ve okumaya hoşgeldiniz...
+mertcan akdas
